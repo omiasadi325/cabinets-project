@@ -48,12 +48,12 @@ window.addEventListener('scroll', function () {
 //////////////////////////////////////////////////////////////////////////////////////
 
 let objectArry=[
-    {id:1 , title:'سیستم کابینت آشپزخانه' , img:'./images/cobinet.jpg'},
-    {id:2 , title:'میز کار' , img:'./images/work chair.jpg'},
-    {id:3 , title:'کمد و کمد دیواری' , img:'./images/image 2.jpg'},
-    {id:4 , title:'کابینت فانتزی' , img:'./images/mini cubin.jpg'},
-    {id:5 , title:'میز بار' , img:'./images/bar chair.jpg'},
-    {id:6 , title:'پارتیشن' , img:'./images/partition.jpg'},
+    {id:1 , title:'سیستم کابینت آشپزخانه' , img:'cobinet.jpg'},
+    {id:2 , title:'میز کار' , img:'work chair.jpg'},
+    {id:3 , title:'کمد و کمد دیواری' , img:'image 2.jpg'},
+    {id:4 , title:'کابینت فانتزی' , img:'mini cubin.jpg'},
+    {id:5 , title:'میز بار' , img:'bar chair.jpg'},
+    {id:6 , title:'پارتیشن' , img:'partition.jpg'},
 ]
 
 objectArry.forEach(function(product) {
